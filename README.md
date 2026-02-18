@@ -1,5 +1,9 @@
 # AI and Machine Learning in CRM: Revolutionizing Customer Relationships
 
+
+https://github.com/user-attachments/assets/be9c5a72-3904-44c3-ae31-74267c6e0e21
+
+
 This project explores how **Artificial Intelligence (AI)** and **Machine Learning (ML)** are transforming **Customer Relationship Management (CRM)** systems. It covers applications, benefits, challenges, and real-world examples of AI/ML-powered CRMs across sales, marketing, and customer service.
 
 ## 🔑 Key Topics
